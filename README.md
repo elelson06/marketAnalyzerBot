@@ -3,4 +3,4 @@ MarketAnalyzerBot is a comprehensive Python-based trading bot designed to assist
 This project encompasses one main application and some libraries that will be added progressively. 
 
 ## List of developed libraries: 
-- **CandlePatternsPy**: This library provides functions to identify common patterns, such as Doji, Hammer, Shooting Star, Bullish Engulfing, Bearish Engulfing, and more. Traders can use these patterns to gain valuable insights into potential market reversals and trends.
+- **candlePatterns**: This library provides functions to identify common patterns, such as Doji, Hammer, Shooting Star, Bullish Engulfing, Bearish Engulfing, and more. Traders can use these patterns to gain valuable insights into potential market reversals and trends.
